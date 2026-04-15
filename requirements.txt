@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-classic
+langchain-community
+langchain-chroma
+langchain-huggingface
+langchain-ollama
+chromadb
+sentence-transformers
+requests
+beautifulsoup4

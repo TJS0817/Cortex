@@ -1,0 +1,24 @@
+{
+  "models": [
+    {
+      "name": "llama3",
+      "temperature": 0.7,
+      "num_predict": 2048
+    },
+    {
+      "name": "mistral",
+      "temperature": 0.7,
+      "num_predict": 2048
+    },
+    {
+      "name": "phi3",
+      "temperature": 0.3,
+      "num_predict": 1024
+    },
+    {
+      "name": "gemma",
+      "temperature": 0.8,
+      "num_predict": 2048
+    }
+  ]
+}
